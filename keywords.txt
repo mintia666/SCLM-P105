@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For SCLMP105
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SCLMP105	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+clearDisplay	KEYWORD2
+setDigit	KEYWORD2
+setNumber	KEYWORD2
+setMark	KEYWORD2
+update		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
